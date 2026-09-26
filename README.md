@@ -1,5 +1,4 @@
 <!-- PROFILE HEADER -->
-<div align="center">
 
 # 👋 Hey, I'm Govind Vamshi Krishna
 
@@ -11,8 +10,6 @@ Building practical products with **AI, APIs, automation, and modern web technolo
 [![Main GitHub](https://img.shields.io/badge/GitHub-VamshiKrishna216-181717?style=for-the-badge&logo=github)](https://github.com/VamshiKrishna216)
 [![Projects GitHub](https://img.shields.io/badge/GitHub-gvkworkspace9--crypto-181717?style=for-the-badge&logo=github)](https://github.com/gvkworkspace9-crypto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind%20Vamshi%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-</div>
 
 ---
 
@@ -45,68 +42,44 @@ I'm a **Computer Science Engineering student** focused on becoming a strong **AI
 <table>
 <tr>
 <td width="50%">
-
-### 🤖 Instagram Comment → DM Automation
-**FastAPI + Next.js + Instagram Graph API**
-
-Keyword-triggered Instagram automation with webhooks, public comment replies and automated DMs.
-
-**Focus:** API integration · Webhooks · Automation · Full-stack
-
+<h3>🤖 Instagram Comment → DM Automation</h3>
+<strong>FastAPI + Next.js + Instagram Graph API</strong>
+<p>Keyword-triggered Instagram automation with webhooks, public comment replies and automated DMs.</p>
+<strong>Focus:</strong> API integration · Webhooks · Automation · Full-stack
 </td>
 <td width="50%">
-
-### 🎟️ Smart Ticket Site
-**Full-stack ticket booking platform**
-
-A complete booking workflow covering ticket selection, backend APIs and payment-oriented architecture.
-
-**Focus:** Full-stack · APIs · Booking systems · Architecture
-
+<h3>🎟️ Smart Ticket Site</h3>
+<strong>Full-stack ticket booking platform</strong>
+<p>A complete booking workflow covering ticket selection, backend APIs and payment-oriented architecture.</p>
+<strong>Focus:</strong> Full-stack · APIs · Booking systems · Architecture
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-### ☁️ C2ADrive
-**Electron + Google Drive + Cloud Migration**
-
-Desktop application for cloud-to-cloud Google Drive transfers and local backups, with OAuth 2.0 PKCE, parallel transfers, export support and Windows `.exe` packaging.
-
-**Focus:** Cloud systems · OAuth · Desktop apps · Security
-
+<h3>☁️ C2ADrive</h3>
+<strong>Electron + Google Drive + Cloud Migration</strong>
+<p>Desktop application for cloud-to-cloud Google Drive transfers and local backups, with OAuth 2.0 PKCE, parallel transfers, export support and Windows <code>.exe</code> packaging.</p>
+<strong>Focus:</strong> Cloud systems · OAuth · Desktop apps · Security
 </td>
 <td width="50%">
-
-### 🚗 AA Browser
-**Android + Automotive WebView**
-
-A browser experience built for Android Auto head units with automotive-focused UI, tabs, themes, bookmarks and media support.
-
-**Focus:** Android · Automotive · WebView · Mobile UX
-
+<h3>🚗 AA Browser</h3>
+<strong>Android + Automotive WebView</strong>
+<p>A browser experience built for Android Auto head units with automotive-focused UI, tabs, themes, bookmarks and media support.</p>
+<strong>Focus:</strong> Android · Automotive · WebView · Mobile UX
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-### 📱 VW IR Remote
-**Android + Kotlin + Infrared**
-
-An Android IR remote application for compatible VW Smart TVs using the device's IR transmitter.
-
-**Focus:** Kotlin · Android · Hardware APIs
-
+<h3>📱 VW IR Remote</h3>
+<strong>Android + Kotlin + Infrared</strong>
+<p>An Android IR remote application for compatible VW Smart TVs using the device's IR transmitter.</p>
+<strong>Focus:</strong> Kotlin · Android · Hardware APIs
 </td>
 <td width="50%">
-
-### 🌐 GVK Portfolio
-**Next.js + React + Firebase + Cloudflare**
-
-My personal portfolio platform for showcasing projects, skills and experiments.
-
-**Focus:** Next.js · React · UI · Deployment
-
+<h3>🌐 GVK Portfolio</h3>
+<strong>Next.js + React + Firebase + Cloudflare</strong>
+<p>My personal portfolio platform for showcasing projects, skills and experiments.</p>
+<strong>Focus:</strong> Next.js · React · UI · Deployment
 </td>
 </tr>
 </table>
@@ -193,8 +166,4 @@ Product-Based Software / AI Role
 
 Interested in **AI, software engineering, automation, open source, or building useful products**? Let's connect.
 
-<div align="center">
-
 **⭐ Explore my repositories • 🛠️ Build something • 🚀 Keep shipping**
-
-</div>
