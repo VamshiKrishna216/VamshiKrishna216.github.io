@@ -58,12 +58,34 @@ A complete booking workflow covering ticket selection, backend APIs and payment-
 <tr>
 <td width="50%">
 
+### ☁️ C2ADrive
+**Electron + Google Drive + Cloud Migration**
+
+Desktop application for cloud-to-cloud Google Drive transfers and local backups, with OAuth 2.0 PKCE, parallel transfers, export support and Windows `.exe` packaging.
+
+**Focus:** Cloud systems · OAuth · Desktop apps · Security
+
+</td>
+<td width="50%">
+
+### 🚗 AA Browser
+**Android + Automotive WebView**
+
+A browser experience built for Android Auto head units with automotive-focused UI, tabs, themes, bookmarks and media support.
+
+**Focus:** Android · Automotive · WebView · Mobile UX
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📱 VW IR Remote
 **Android + Kotlin + Infrared**
 
 An Android IR remote application for compatible VW Smart TVs using the device's IR transmitter.
 
-**Focus:** Kotlin · Android · Hardware APIs · Mobile
+**Focus:** Kotlin · Android · Hardware APIs
 
 </td>
 <td width="50%">
@@ -101,6 +123,7 @@ An AI system that can route tasks between different models/agents based on the t
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Cloud, DevOps & Tools
@@ -158,7 +181,7 @@ Product-Based Software / AI Role
 
 ## 🤝 Let's Connect
 
-If you're interested in **AI, software engineering, automation, open source, or building cool products**, feel free to connect.
+Interested in **AI, software engineering, automation, open source, or building useful products**? Let's connect.
 
 <div align="center">
 
