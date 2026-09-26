@@ -8,7 +8,8 @@
 Building practical products with **AI, APIs, automation, and modern web technologies**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gvktech.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gvktech.online)
-[![GitHub](https://img.shields.io/badge/GitHub-VamshiKrishna216-181717?style=for-the-badge&logo=github)](https://github.com/VamshiKrishna216)
+[![Main GitHub](https://img.shields.io/badge/GitHub-VamshiKrishna216-181717?style=for-the-badge&logo=github)](https://github.com/VamshiKrishna216)
+[![Projects GitHub](https://img.shields.io/badge/GitHub-gvkworkspace9--crypto-181717?style=for-the-badge&logo=github)](https://github.com/gvkworkspace9-crypto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind%20Vamshi%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
@@ -27,6 +28,15 @@ I'm a **Computer Science Engineering student** focused on becoming a strong **AI
 - 🎯 Targeting **product-based software / AI engineering roles**
 
 > **Build → Break → Debug → Improve → Ship.**
+
+---
+
+## 🔗 My GitHub Accounts
+
+| Account | Purpose |
+|---|---|
+| 👨‍💻 **[@VamshiKrishna216](https://github.com/VamshiKrishna216)** | Main profile, software engineering & AI projects |
+| 🛠️ **[@gvkworkspace9-crypto](https://github.com/gvkworkspace9-crypto)** | Additional projects, experiments & applications |
 
 ---
 
