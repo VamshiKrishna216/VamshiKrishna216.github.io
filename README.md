@@ -7,6 +7,7 @@ Computer Science Engineering student building **AI-powered applications, backend
 [![Portfolio](https://img.shields.io/badge/Portfolio-gvk1.me-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gvk1.me)
 [![GitHub](https://img.shields.io/badge/GitHub-VamshiKrishna216-181717?style=for-the-badge&logo=github)](https://github.com/VamshiKrishna216)
 [![Projects](https://img.shields.io/badge/Projects-gvkworkspace9--crypto-181717?style=for-the-badge&logo=github)](https://github.com/gvkworkspace9-crypto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind%20Vamshi%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-vamshi-krishna-055ab822a)
 
 ---
 
