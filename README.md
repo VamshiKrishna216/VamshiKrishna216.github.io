@@ -1,107 +1,91 @@
-<!-- PROFILE HEADER -->
-
 # 👋 Hey, I'm Govind Vamshi Krishna
 
-### AI / Software Engineer in the making • Full-Stack Builder • Automation Enthusiast
+### AI / Software Engineer • Full-Stack Builder • Automation Enthusiast
 
-Building practical products with **AI, APIs, automation, and modern web technologies**.
+Computer Science Engineering student building **AI-powered applications, backend systems, automations, and developer tools**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gvktech.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gvktech.online)
-[![Main GitHub](https://img.shields.io/badge/GitHub-VamshiKrishna216-181717?style=for-the-badge&logo=github)](https://github.com/VamshiKrishna216)
-[![Projects GitHub](https://img.shields.io/badge/GitHub-gvkworkspace9--crypto-181717?style=for-the-badge&logo=github)](https://github.com/gvkworkspace9-crypto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind%20Vamshi%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gvk1.me-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gvk1.me)
+[![GitHub](https://img.shields.io/badge/GitHub-VamshiKrishna216-181717?style=for-the-badge&logo=github)](https://github.com/VamshiKrishna216)
+[![Projects](https://img.shields.io/badge/Projects-gvkworkspace9--crypto-181717?style=for-the-badge&logo=github)](https://github.com/gvkworkspace9-crypto)
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering student** focused on becoming a strong **AI / Software Engineer** and building production-minded projects.
+I'm a **BTech Computer Science Engineering student** focused on becoming a strong **AI / Software Engineer** through hands-on engineering and real-world projects.
 
-- 🤖 Exploring **AI, LLM applications & intelligent automation**
-- 💻 Building with **Java, Python, TypeScript, React & Next.js**
+- 🤖 Building with **AI, LLM APIs, agents & intelligent automation**
+- 💻 Developing with **Java, Python, TypeScript, React & Next.js**
 - 🧠 Strengthening **DSA, OOP, DBMS, OS & core CS fundamentals**
-- ⚙️ Interested in **APIs, backend systems, DevOps & cloud**
-- 🛠️ I learn by **building real projects**, not just tutorials
-- 🎯 Targeting **product-based software / AI engineering roles**
+- ⚙️ Exploring **APIs, backend architecture, DevOps & cloud**
+- 🛠️ Learning through **shipping projects, debugging systems and solving problems**
+- 🎯 Preparing for **software engineering & AI engineering opportunities**
 
 > **Build → Break → Debug → Improve → Ship.**
 
 ---
 
-## 🔗 My GitHub Accounts
+## ⭐ Featured Projects
 
-| Account | Purpose |
-|---|---|
-| 👨‍💻 **[@VamshiKrishna216](https://github.com/VamshiKrishna216)** | Main profile, software engineering & AI projects |
-| 🛠️ **[@gvkworkspace9-crypto](https://github.com/gvkworkspace9-crypto)** | Additional projects, experiments & applications |
+### 🤖 [Instagram Comment → DM Automation](https://github.com/VamshiKrishna216/instagram-comment-dm-automation)
+**FastAPI + Next.js + Instagram Graph API**
+
+Automation platform for keyword-triggered Instagram workflows using webhooks, comment replies and automated DMs.
+
+`FastAPI` `Next.js` `Webhooks` `Instagram Graph API` `Automation`
+
+### 🎟️ [Smart Ticket Site](https://github.com/VamshiKrishna216/smart-ticket-site)
+**Full-stack booking platform**
+
+End-to-end ticket booking workflow with frontend UI, backend APIs and payment-oriented architecture.
+
+`React` `APIs` `Booking Systems` `Full Stack`
+
+### ☁️ [C2ADrive](https://github.com/gvkworkspace9-crypto/C2Adrive)
+**Electron + Google Drive + Cloud Migration**
+
+Desktop application for Google Drive transfers and local backups with OAuth 2.0 PKCE, parallel transfers, export support and Windows packaging.
+
+`Electron` `Google Drive API` `OAuth 2.0` `PKCE` `Desktop`
+
+### 🌐 [GVK Portfolio](https://github.com/VamshiKrishna216/gvkPortfoliosite)
+**Next.js + React + Cloudflare**
+
+Personal portfolio platform for showcasing projects, experiments, skills and engineering work.
+
+`Next.js` `React` `Tailwind CSS` `Cloudflare` `Analytics`
+
+### 🚗 [AA Browser](https://github.com/gvkworkspace9-crypto/CarBrowserGVK)
+**Android + Automotive WebView**
+
+Automotive-focused browser experience designed for Android Auto environments.
+
+`Android` `WebView` `Automotive` `Mobile UX`
 
 ---
 
-## 🧩 Featured Projects
+## 🔭 What I'm Building Next
 
-<table>
-<tr>
-<td width="50%">
-<h3>🤖 Instagram Comment → DM Automation</h3>
-<strong>FastAPI + Next.js + Instagram Graph API</strong>
-<p>Keyword-triggered Instagram automation with webhooks, public comment replies and automated DMs.</p>
-<strong>Focus:</strong> API integration · Webhooks · Automation · Full-stack
-</td>
-<td width="50%">
-<h3>🎟️ Smart Ticket Site</h3>
-<strong>Full-stack ticket booking platform</strong>
-<p>A complete booking workflow covering ticket selection, backend APIs and payment-oriented architecture.</p>
-<strong>Focus:</strong> Full-stack · APIs · Booking systems · Architecture
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>☁️ C2ADrive</h3>
-<strong>Electron + Google Drive + Cloud Migration</strong>
-<p>Desktop application for cloud-to-cloud Google Drive transfers and local backups, with OAuth 2.0 PKCE, parallel transfers, export support and Windows <code>.exe</code> packaging.</p>
-<strong>Focus:</strong> Cloud systems · OAuth · Desktop apps · Security
-</td>
-<td width="50%">
-<h3>🚗 AA Browser</h3>
-<strong>Android + Automotive WebView</strong>
-<p>A browser experience built for Android Auto head units with automotive-focused UI, tabs, themes, bookmarks and media support.</p>
-<strong>Focus:</strong> Android · Automotive · WebView · Mobile UX
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>📱 VW IR Remote</h3>
-<strong>Android + Kotlin + Infrared</strong>
-<p>An Android IR remote application for compatible VW Smart TVs using the device's IR transmitter.</p>
-<strong>Focus:</strong> Kotlin · Android · Hardware APIs
-</td>
-<td width="50%">
-<h3>🌐 GVK Portfolio</h3>
-<strong>Next.js + React + Firebase + Cloudflare</strong>
-<p>My personal portfolio platform for showcasing projects, skills and experiments.</p>
-<strong>Focus:</strong> Next.js · React · UI · Deployment
-</td>
-</tr>
-</table>
+### Multi-Agent LLM Orchestration with Smart Routing
 
-### 🔭 What I'm Building Next
+An AI orchestration system that can route tasks between models or agents based on **task type, capability, context and cost**.
 
-**Multi-Agent LLM Orchestration with Smart Routing**
-
-An AI system that can route tasks between different models/agents based on the task, cost, capability and context.
+Planned areas: `LLM Routing` · `Agents` · `Tool Calling` · `Evaluation` · `Local Models` · `Cloud APIs`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Frontend & Backend
+**Frontend / Backend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -109,7 +93,8 @@ An AI system that can route tasks between different models/agents based on the t
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Cloud, DevOps & Tools
+**Cloud / DevOps / Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
@@ -118,7 +103,7 @@ An AI system that can route tasks between different models/agents based on the t
 
 ---
 
-## 📊 GitHub Snapshot
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -133,20 +118,20 @@ An AI system that can route tasks between different models/agents based on the t
 
 ---
 
-## 🎯 2026–27 Focus
+## 🎯 2026–27 Roadmap
 
 ```text
-DSA + Java
-        ↓
-Strong CS Fundamentals
-        ↓
+Java + DSA
+    ↓
+Core CS + Problem Solving
+    ↓
 Production-grade Projects
-        ↓
+    ↓
 AI / LLM Engineering
-        ↓
+    ↓
 Cloud + DevOps
-        ↓
-Product-Based Software / AI Role
+    ↓
+Software / AI Engineering
 ```
 
 ---
@@ -164,6 +149,6 @@ Product-Based Software / AI Role
 
 ## 🤝 Let's Connect
 
-Interested in **AI, software engineering, automation, open source, or building useful products**? Let's connect.
+Interested in **AI, software engineering, automation, open source, or building useful products**? Feel free to explore my repositories or connect with me.
 
-**⭐ Explore my repositories • 🛠️ Build something • 🚀 Keep shipping**
+**⭐ Explore • 🛠️ Build • 🐛 Debug • 🚀 Ship**
